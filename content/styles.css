@@ -1,0 +1,20 @@
+:root {
+    --backgroundColor: orangered;
+}
+  
+
+body {
+    background-color: var(--backgroundColor);
+    color: white;
+    font-family: Arial;
+    padding: 0 20px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.model {
+    width: 100vw;
+}
